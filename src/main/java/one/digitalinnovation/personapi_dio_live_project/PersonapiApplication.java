@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi;
+package one.digitalinnovation.personapi_dio_live_project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
